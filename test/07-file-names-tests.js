@@ -9,3 +9,4 @@ describe('07-file-names', () => {
     assert.deepEqual(renameFiles([]), []);
   });
 });
+  
